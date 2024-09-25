@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+**/*.eslintcache
+**/*.log
+
+/backend/node_modules
+/node_modules
